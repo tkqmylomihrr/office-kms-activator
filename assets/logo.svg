@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" fill="#0d1117"/>
+  <g fill="none" stroke="#c9d1d9" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter">
+    <!-- broken shackle bow: an open ring with a clean gap at upper right -->
+    <path d="M 86 96 A 44 44 0 1 1 148 78" />
+    <!-- inner ring detail of bow -->
+    <path d="M 100 100 A 26 26 0 1 1 140 88" />
+    <!-- key shaft descending from bow -->
+    <path d="M 84 138 L 84 214" />
+    <path d="M 116 138 L 116 214" />
+    <!-- bit: three teeth cut into the shaft end -->
+    <path d="M 84 214 L 84 206 L 100 206 L 100 214" />
+    <path d="M 116 214 L 116 206 L 100 206 L 100 214" />
+    <!-- shaft shoulder connecting bow to blade -->
+    <path d="M 70 138 L 130 138" />
+    <!-- small shear/break notch accent on shackle -->
+    <path d="M 150 70 L 162 58" />
+  </g>
+  <!-- single solid fill shape: the keyway notch / activation spark -->
+  <path d="M 100 160 L 108 174 L 100 188 L 92 174 Z" fill="#3fb950"/>
+  <!-- subtle top-right crop accent in light tone -->
+  <path d="M 196 40 L 216 40 L 216 60" fill="none" stroke="#f0f6fc" stroke-width="4" stroke-linecap="square"/>
+</svg>
